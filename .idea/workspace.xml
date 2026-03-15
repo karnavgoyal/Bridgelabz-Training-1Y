@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="344ddde2-1dc5-4e62-bf64-ddd4fcfc476e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bridgelabz-Training-1Y.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level1/AthleteRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level1/ChocolateDistribution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level1/Handshakes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level1/NumberCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level1/QuotientRemainder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level1/SimpleInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level1/SmallLarge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level1/SpringSeason.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level1/SumNaturalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level1/TrigonometricFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level1/WindChill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level2/BMICalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level2/FactorProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level2/Friends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level2/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level2/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level2/PositiveNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level2/Quadratic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level2/StudentVoteChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level2/SumNatural.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level2/UnitConvertor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level2/UnitConvertor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level2/UnitConvertor3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level3/CalenderDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level3/Collinear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level3/CountOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level3/EmployeeBonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level3/Euclidean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level3/Heights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level3/MatrixManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level3/MatrixOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level3/NumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level3/NumberFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level3/NumberIdentifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level3/OTPGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level3/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level3/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/Level3/StudentMarks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/NamesArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/firstprogram.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="methods" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="39HTxvIrDkTcavWMoeleQ2btwJj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayIndexDemo.executor": "Run",
+    "Application.Copy2Dto1D.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "workshop",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="344ddde2-1dc5-4e62-bf64-ddd4fcfc476e" name="Changes" comment="" />
+      <created>1770352246980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770352246980</updated>
+    </task>
+    <servers />
+  </component>
+</project>
