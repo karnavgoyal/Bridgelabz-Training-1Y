@@ -5,8 +5,67 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f85735f0-ebb4-47b6-82c1-dcd6c6469dad" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Array/NamesArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/firstprogram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructor/AccessModifiers/BankAccountManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructor/AccessModifiers/BookLibrarySystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructor/AccessModifiers/EmployeeRecords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructor/AccessModifiers/UniversityManagementSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructor/InstancevsClassVariablesandMethods/OnlineCourseManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructor/InstancevsClassVariablesandMethods/ProductInventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructor/InstancevsClassVariablesandMethods/VehicleRegistration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructor/Level1/BookClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructor/Level1/CarRentalSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructor/Level1/CircleClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructor/Level1/CloneAttribute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructor/Level1/HotelBookingSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructor/Level1/LibraryBookSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level1/AthleteRun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level1/ChocolateDistribution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level1/Handshakes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level1/NumberCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level1/QuotientRemainder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level1/SimpleInterest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level1/SmallLarge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level1/SpringSeason.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level1/SumNaturalNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level1/TrigonometricFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level1/WindChill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level2/BMICalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level2/FactorProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level2/Friends.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level2/LeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level2/Numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level2/PositiveNegative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level2/Quadratic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level2/StudentVoteChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level2/SumNatural.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level2/UnitConvertor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level2/UnitConvertor2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level2/UnitConvertor3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level3/CalenderDisplay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level3/Collinear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level3/CountOfDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level3/EmployeeBonus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level3/Euclidean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level3/Heights.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level3/MatrixManipulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level3/MatrixOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level3/NumberChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level3/NumberFactor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level3/NumberIdentifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level3/OTPGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level3/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level3/PerfectNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methods/Level3/StudentMarks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objectclasses/Level1/AreaOfCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objectclasses/Level1/Employdetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objectclasses/Level1/InventoryofItems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objectclasses/Level1/MobilePhoneDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objectclasses/Level2/PalindromeString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objectclasses/Level2/ShoppingCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objectclasses/Level2/SimulateStudentReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objectclasses/Level2/SimulateanATM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objectclasses/Level2/TicketBooking.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,17 +109,25 @@
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "workshop",
+    "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Bridgelabz-Training-1Y",
+    "last_opened_file_path": "C:/Bridgelabz-Training-1Y",
     "onboarding.tips.debug.path": "C:/java program/javaproject/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
     "to.speed.mode.migration.done": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="firstprogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="firstprogram" />
-      <module name="javaproject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
